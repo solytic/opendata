@@ -1,6 +1,6 @@
 # Bronze Demo Data
 
-This directory contains demo bronze data, that is raw data of some of our demo PV plants.
+This directory contains raw (bronze) data of some of our demo PV plants.
 
 The data set is partitioned by the arrival date of the data.
 
